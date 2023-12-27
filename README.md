@@ -1,6 +1,5 @@
 Yah pokoknya isinya jawaban socs1 Binus
-\n
-Note:
+, Note:
 1. Silahkan dilihat
 2. Kalo mau pake jangan copas langsung
 3. Yah gitulah hehe
